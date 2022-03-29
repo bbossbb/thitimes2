@@ -31,7 +31,6 @@
 				<ul class="navbar-nav">
 					<li class="nav-item"><a class="nav-link" href="#section-home">Home</a></li>
 					<li class="nav-item"><a class="nav-link" href="#section-portfolio">Portfolio</a></li>
-					<li class="nav-item"><a class="nav-link" href="#section-Trailer">Trailer</a></li>
 					<li class="nav-item"><a class="nav-link" href="#section-resume">Resume</a></li>
 					<li class="nav-item"><a class="nav-link" href="#section-about">About</a></li>
 					<li class="nav-item"><a class="nav-link" href="#section-contact">Contact</a></li>
@@ -43,7 +42,7 @@
 
 
 
-	<section class="site-hero" style="background-image: url(images/jametest.jpg);" id="section-home" data-stellar-background-ratio="0.5">
+	<section class="site-hero" style="background-image: url(images/pro1.jpg);" id="section-home" data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="row intro-text align-items-center justify-content-center">
 				<div class="col-md-10 text-center pt-5">
@@ -124,31 +123,7 @@
 	</section>
 	<!-- .section -->
 
-	<section class="site-section" id="section-Trailer">
-		<div class="container">
-			<div class="row">
-				<div class="section-heading text-center col-md-12">
-					<h2> <strong>Trailer</strong></h2>
-				</div>
-			</div>
-			<div class="p-inner">
-				<h4>Switch</h4>
-			</div>
-<div align="center" style= "width:100%; height: 100%;">
-			<video style = "align:center; width: 100%; height: 100%"controls>
-				<source src  = "video/switch.mp4" alt="300">
-			</video>
-		</div>
-		<div class="p-inner">
-			<h4>Lucerna</h4>
-		</div>
-		<div align="center" style= "width:100%; height: 100%;">
-			<video style = "align:center; width: 100%; height: 100%"controls>
-				<source src  = "video/switch.mp4" alt="300">
-			</video>
-		</div>
-		</div>
-	</section>
+	
 	<!-- .section -->
 
 	
@@ -215,7 +190,7 @@
 		<div class="container">
 			<div class="row mb-5 align-items-center">
 				<div class="col-lg-7 pr-lg-5 mb-5 mb-lg-0">
-					<img src="images/jametest.jpg" alt="Image placeholder" class="img-fluid">
+					<img src="images/pro1.jpg" alt="Image placeholder" class="img-fluid">
 				</div>
 				<div class="col-lg-5 pl-lg-5">
 					<div class="section-heading">
@@ -278,16 +253,10 @@
 
 	<footer class="site-footer">
 		<div class="container">
-
-			
-			
 			<div class="row mb-5">
 				<div class="col-md-12 text-center">
 					<p>
-						<a href="#" class="social-item"><span class="icon-facebook2"></span></a>
-						<a href="#" class="social-item"><span class="icon-twitter"></span></a>
-						<a href="#" class="social-item"><span class="icon-instagram2"></span></a>
-						<a href="#" class="social-item"><span class="icon-linkedin2"></span></a>
+						<a href="https://www.linkedin.com/in/thitimes-suriyasenee-598767232/" class="social-item"><span class="icon-linkedin2"></span></a>
 					</p>
 				</div>
 			</div>
